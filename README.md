@@ -46,3 +46,5 @@ Students tracking study vs. distraction time
 Developers monitoring productivity
 
 Professionals improving work efficiency
+#OUTPUT
+<!-- Uploading "Screenshot 2026-03-13 131946.png"... -->
